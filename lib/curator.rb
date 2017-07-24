@@ -13,6 +13,6 @@ class Curator
   end
 
   def museums.count
-
+#undefined local variable or method for "museums"? Isn't museum defined as an instance variable in initialize?
   end
 end
